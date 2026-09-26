@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_cost
+P001,Product_1,Apparel,41.67
+P002,Product_2,Electronics,80.1
+P003,Product_3,Office Supplies,47.16
+P004,Product_4,Furniture,63.63
+P005,Product_5,Apparel,305.13
+P006,Product_6,Furniture,388.97
+P007,Product_7,Apparel,228.0
+P008,Product_8,Apparel,152.19
+P009,Product_9,Apparel,156.16
+P010,Product_10,Electronics,306.77
+P011,Product_11,Electronics,474.06
+P012,Product_12,Furniture,314.63
+P013,Product_13,Office Supplies,331.91
+P014,Product_14,Furniture,123.73
+P015,Product_15,Electronics,82.48
+P016,Product_16,Apparel,228.0
+P017,Product_17,Apparel,149.17
+P018,Product_18,Furniture,147.61
+P019,Product_19,Office Supplies,352.98
+P020,Product_20,Apparel,40.23
+P021,Product_21,Furniture,462.34
+P022,Product_22,Furniture,215.44
+P023,Product_23,Furniture,325.58
+P024,Product_24,Office Supplies,414.18
+P025,Product_25,Electronics,34.52
+P026,Product_26,Office Supplies,299.55
+P027,Product_27,Office Supplies,222.38
+P028,Product_28,Apparel,345.9
+P029,Product_29,Apparel,471.62
+P030,Product_30,Apparel,221.69
+P031,Product_31,Electronics,445.26
+P032,Product_32,Office Supplies,303.84
+P033,Product_33,Electronics,50.21
+P034,Product_34,Electronics,499.79
+P035,Product_35,Office Supplies,290.24
+P036,Product_36,Furniture,237.9
+P037,Product_37,Apparel,458.46
+P038,Product_38,Furniture,498.49
+P039,Product_39,Apparel,319.22
+P040,Product_40,Apparel,484.68
+P041,Product_41,Apparel,177.24
+P042,Product_42,Office Supplies,163.92
+P043,Product_43,Electronics,429.58
+P044,Product_44,Office Supplies,208.76
+P045,Product_45,Apparel,147.67
+P046,Product_46,Apparel,407.72
+P047,Product_47,Electronics,230.14
+P048,Product_48,Office Supplies,129.94
+P049,Product_49,Electronics,485.24
+P050,Product_50,Apparel,433.13
